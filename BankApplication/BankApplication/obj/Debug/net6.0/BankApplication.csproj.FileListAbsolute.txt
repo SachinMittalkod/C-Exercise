@@ -1,0 +1,15 @@
+C:\Users\sachin.mittalkod\source\repos\BankApplication\BankApplication\bin\Debug\net6.0\BankApplication.exe
+C:\Users\sachin.mittalkod\source\repos\BankApplication\BankApplication\bin\Debug\net6.0\BankApplication.deps.json
+C:\Users\sachin.mittalkod\source\repos\BankApplication\BankApplication\bin\Debug\net6.0\BankApplication.runtimeconfig.json
+C:\Users\sachin.mittalkod\source\repos\BankApplication\BankApplication\bin\Debug\net6.0\BankApplication.dll
+C:\Users\sachin.mittalkod\source\repos\BankApplication\BankApplication\bin\Debug\net6.0\BankApplication.pdb
+C:\Users\sachin.mittalkod\source\repos\BankApplication\BankApplication\obj\Debug\net6.0\BankApplication.csproj.AssemblyReference.cache
+C:\Users\sachin.mittalkod\source\repos\BankApplication\BankApplication\obj\Debug\net6.0\BankApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sachin.mittalkod\source\repos\BankApplication\BankApplication\obj\Debug\net6.0\BankApplication.AssemblyInfoInputs.cache
+C:\Users\sachin.mittalkod\source\repos\BankApplication\BankApplication\obj\Debug\net6.0\BankApplication.AssemblyInfo.cs
+C:\Users\sachin.mittalkod\source\repos\BankApplication\BankApplication\obj\Debug\net6.0\BankApplication.csproj.CoreCompileInputs.cache
+C:\Users\sachin.mittalkod\source\repos\BankApplication\BankApplication\obj\Debug\net6.0\BankApplication.dll
+C:\Users\sachin.mittalkod\source\repos\BankApplication\BankApplication\obj\Debug\net6.0\refint\BankApplication.dll
+C:\Users\sachin.mittalkod\source\repos\BankApplication\BankApplication\obj\Debug\net6.0\BankApplication.pdb
+C:\Users\sachin.mittalkod\source\repos\BankApplication\BankApplication\obj\Debug\net6.0\BankApplication.genruntimeconfig.cache
+C:\Users\sachin.mittalkod\source\repos\BankApplication\BankApplication\obj\Debug\net6.0\ref\BankApplication.dll
